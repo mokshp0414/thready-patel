@@ -1,0 +1,102 @@
+Starting pattern 1 with 7 threads...
+Parent: created thread 1 (TID: 140059582629440)
+Thread 1 (TID: 140059582629440) beginning
+Parent: created thread 2 (TID: 140059574236736)
+Thread 2 (TID: 140059574236736) beginning
+Parent: created thread 3 (TID: 140059565844032)
+Thread 3 (TID: 140059565844032) beginning
+Parent: created thread 4 (TID: 140059557451328)
+Thread 4 (TID: 140059557451328) beginning
+Parent: created thread 5 (TID: 140059549058624)
+Thread 5 (TID: 140059549058624) beginning
+Parent: created thread 6 (TID: 140059540665920)
+Thread 6 (TID: 140059540665920) beginning
+Parent: created thread 7 (TID: 140059532273216)
+Thread 7 (TID: 140059532273216) beginning
+Thread 2 (TID: 140059574236736) exiting after 1 seconds
+Thread 6 (TID: 140059540665920) exiting after 1 seconds
+Thread 4 (TID: 140059557451328) exiting after 3 seconds
+Thread 5 (TID: 140059549058624) exiting after 4 seconds
+Thread 3 (TID: 140059565844032) exiting after 5 seconds
+Thread 1 (TID: 140059582629440) exiting after 7 seconds
+Thread 7 (TID: 140059532273216) exiting after 8 seconds
+All threads have completed.
+
+Starting pattern 2 with 7 threads...
+Thread 1 (TID: 139979006658112) beginning
+Thread 1 (TID: 139979006658112) exiting after 4 seconds
+Parent: created thread 1 (TID: 139979006658112) and waited for it to exit
+Thread 2 (TID: 139979006658112) beginning
+Thread 2 (TID: 139979006658112) exiting after 5 seconds
+Parent: created thread 2 (TID: 139979006658112) and waited for it to exit
+Thread 3 (TID: 139979006658112) beginning
+Thread 3 (TID: 139979006658112) exiting after 1 seconds
+Parent: created thread 3 (TID: 139979006658112) and waited for it to exit
+Thread 4 (TID: 139979006658112) beginning
+Thread 4 (TID: 139979006658112) exiting after 5 seconds
+Parent: created thread 4 (TID: 139979006658112) and waited for it to exit
+Thread 5 (TID: 139979006658112) beginning
+Thread 5 (TID: 139979006658112) exiting after 7 seconds
+Parent: created thread 5 (TID: 139979006658112) and waited for it to exit
+Thread 6 (TID: 139979006658112) beginning
+Thread 6 (TID: 139979006658112) exiting after 1 seconds
+Parent: created thread 6 (TID: 139979006658112) and waited for it to exit
+Thread 7 (TID: 139979006658112) beginning
+Thread 7 (TID: 139979006658112) exiting after 5 seconds
+Parent: created thread 7 (TID: 139979006658112) and waited for it to exit
+All threads have exited.
+
+Starting pattern 3 with 8 threads...
+Thread 1 (TID: 140617376572992) beginning
+Thread 2 (TID: 140617296377408) beginning
+Thread 2 (TID: 140617296377408) exiting after 5 seconds
+Thread 3 (TID: 140617296377408) beginning
+Thread 3 (TID: 140617296377408) exiting after 4 seconds
+Thread 4 (TID: 140617296377408) beginning
+Thread 4 (TID: 140617296377408) exiting after 2 seconds
+Thread 5 (TID: 140617296377408) beginning
+Thread 5 (TID: 140617296377408) exiting after 1 seconds
+Thread 6 (TID: 140617296377408) beginning
+Thread 6 (TID: 140617296377408) exiting after 6 seconds
+Thread 7 (TID: 140617296377408) beginning
+Thread 7 (TID: 140617296377408) exiting after 4 seconds
+Thread 8 (TID: 140617296377408) beginning
+Thread 8 (TID: 140617296377408) exiting after 6 seconds
+Thread 1 (TID: 140617376572992) exiting after 2 seconds
+free(): invalid size
+Aborted (core dumped)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
